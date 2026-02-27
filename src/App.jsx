@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="container">
       <header className="header">
-        <div className="logo">⚡ MyApp</div>
+        <div className="logo">⚡ Boilerplate</div>
         <nav>
           <a href="#">Home</a>
           <a href="#">About</a>
